@@ -15,7 +15,7 @@ void main() {
             textDirection: TextDirection.ltr,
             style: TextStyle(
               color: Colors.black,
-              fontSize: 50.0,
+              fontSize: 40.0,
             ),
           )),
         ),
