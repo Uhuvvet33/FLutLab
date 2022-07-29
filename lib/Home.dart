@@ -13,6 +13,7 @@ class Home extends StatelessWidget {
     return MaterialApp(
       title: "Özel Widget",
       home: Scaffold(
+        //uygulamanın Bar ve Body oluşması için Scaffold kullanıyoruz.
         appBar: AppBar(
           title: Text("Menü: Merhaba " +
               araclar.selamVer()), //selamVer() fonksiyonu çağırıyoruz.
