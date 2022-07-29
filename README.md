@@ -1,24 +1,16 @@
-# click_counter
+https://flutlab.io ile oluşturulan yeni bir Flutter projesi
 
-A new Flutter project created with https://flutlab.io
+### Başlarken
+Bu proje, Flutter uygulaması için bir başlangıç ​​noktasıdır.
 
-## Getting Started
+Bu ilk Flutter projenizse, başlamanıza yardımcı olacak birkaç kaynak:
 
-This project is a starting point for a Flutter application.
+https://flutter.dev/docs/get-started/codelab
+https://flutter.dev/docs/cookbook
+Flutter'ı kullanmaya başlama konusunda yardım için öğreticiler, örnekler, mobil geliştirme konusunda rehberlik ve eksiksiz bir API referansı sunan https://flutter.dev/docs sayfamıza bakın.
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+### Başlarken: FlutLab - Flutter Çevrimiçi IDE
+FlutLab nasıl kullanılır? Lütfen https://flutlab.io/docs sayfamıza bakın
+Kullanıma hazır Flutter projeleri pazarını keşfedin https://flutlab.io/widgetbay
+https://flutlab.io/residents adresindeki tartışmaya ve sohbete katılın
+FlutLab ile ilgili sorularınız varsa https://flutlab.io/faq adresinden sorabilirsiniz.
