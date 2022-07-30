@@ -22,6 +22,8 @@ class SehirSecimState extends State<SehirSecim> {
   @override
   Widget build(BuildContext context) {
     return Column(
+      crossAxisAlignment:
+          CrossAxisAlignment.start, //Sütunun başlangıç pozisyonu.
       children: <Widget>[
         DropdownButton<String>(
           items: sehirler.map((String sehir) {
@@ -39,7 +41,14 @@ class SehirSecimState extends State<SehirSecim> {
             });
           },
         ),
-        Text(" Seçilen şehir : " + seciliSehir)
+        Row(
+          children: <Widget>[
+            Text(
+              "Seçilen şehir : " + seciliSehir,
+              style: TextStyle(fontSize: 20.0),
+            ),
+          ],
+        ),
       ],
     );
   }
