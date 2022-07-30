@@ -9,8 +9,8 @@ void main() {
 
 
 /*
+//Sınıfları buradada yazarak kullanabiliriz. 
 //Kendi Widgetimizi oluşturuyoruz.
-
 //Home Widgetimizi oluşturuyoruz.
 class Home extends StatelessWidget {
   @override

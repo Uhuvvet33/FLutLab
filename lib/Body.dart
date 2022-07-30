@@ -6,7 +6,7 @@ class Body extends StatelessWidget {
   @override //StatelessWidget sınıfının build() metodunu override ediyoruz.
   Widget build(BuildContext context) {
     return Material(
-      color: Colors.redAccent,
+      color: Colors.cyanAccent,
       child: Text(
         "Gövde Bölümü",
         textDirection: TextDirection.ltr,
